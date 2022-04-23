@@ -1,0 +1,45 @@
+.main {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.main .top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main .google-photo {
+    width: 260px;
+    height: 60px;
+    background-image: url(../../assets/googlelogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.main .formDiv1 {
+    padding: 10px;
+}
+
+.main .formDiv2 {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main input {
+    padding-left: 20px;
+    width: 50%;
+    height: 40px;
+    border-radius: 45px;
+    border: 1px silver solid;
+    font-size: medium;
+}
+
+.main input:hover {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
