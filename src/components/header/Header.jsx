@@ -8,7 +8,7 @@ function Header() {
     <div className='header'>
         <Link linkName='Gmail' url='https://www.google.com/gmail/about/'/>
         <Link linkName='Images' url='https://www.google.be/imghp'/>
-        <button className='sign-in'>Sign In</button>
+        <a href="https://accounts.google.com/signin/v2/identifier" className='sign-in'>Sign In</a>
     </div>
   )
 }
