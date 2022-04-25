@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-google-clone/static/css/main.beba4568.css",
+    "main.js": "/react-google-clone/static/js/main.175f578f.js",
+    "static/js/787.4e241579.chunk.js": "/react-google-clone/static/js/787.4e241579.chunk.js",
+    "static/media/googlelogo.png": "/react-google-clone/static/media/googlelogo.85707a335f8d3583332c.png",
+    "index.html": "/react-google-clone/index.html",
+    "main.beba4568.css.map": "/react-google-clone/static/css/main.beba4568.css.map",
+    "main.175f578f.js.map": "/react-google-clone/static/js/main.175f578f.js.map",
+    "787.4e241579.chunk.js.map": "/react-google-clone/static/js/787.4e241579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beba4568.css",
+    "static/js/main.175f578f.js"
+  ]
+}
